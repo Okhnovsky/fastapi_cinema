@@ -1,2 +1,2 @@
-# fastapi_cup_store
-Store of the Cups
+# fastapi_cinema
+Cinema
